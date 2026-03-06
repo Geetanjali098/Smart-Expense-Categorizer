@@ -1,4 +1,4 @@
-# Smart Expense Categorizer Feature Documentation
+# Smart Expense Categorizer
 
 ## Overview
 
