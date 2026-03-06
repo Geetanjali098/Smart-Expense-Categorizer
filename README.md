@@ -285,7 +285,9 @@ else:
 
 ## Screenshots
 
-> _Add screenshots here after running the app (e.g., upload, categorization, analytics, download button)._
+>  After running the app ( upload, categorization, analytics) here is the some images of the app.
+> (screenshots/preview.png)
+
 
 ---
 
