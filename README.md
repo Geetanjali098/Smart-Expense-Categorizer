@@ -11,6 +11,9 @@ This tool streamlines personal finance management by automating tedious expense 
 ## Architecture Overview
 
 ```mermaid
+<img width="2245" height="2244" alt="mermaid-diagram-1-2026-03-06T12-11-02" src="https://github.com/user-attachments/assets/a0fd9b01-e135-4229-9612-582f6abca06a" />
+<img width="2245" height="2244" alt="mermaid-diagram-1-2026-03-06T12-11-02" src="https://github.com/user-attachments/assets/a0fd9b01-e135-4229-9612-582f6abca06a" />
+
 flowchart TB
     subgraph PresentationLayer [Presentation Layer]
         ST[Streamlit UI]
